@@ -93,7 +93,7 @@
     
     .message__one {
         display: flex;
-        width: 300px;
+        max-width: 300px;
         min-height: 80px;
         background-color: white;
         border: black solid 2px;
@@ -101,7 +101,7 @@
     
     .message__two {
         display: flex;
-        width: 300px;
+        max-width: 300px;
         min-height: 80px;
         background-color: white;
         border: black solid 2px;
